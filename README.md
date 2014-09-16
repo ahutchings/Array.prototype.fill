@@ -2,6 +2,8 @@
 
 ES6 Array.prototype.fill polyfill, taken from [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/fill).
 
+[![Build Status](https://travis-ci.org/ahutchings/Array.prototype.fill.svg?branch=master)](https://travis-ci.org/ahutchings/Array.prototype.fill)
+
 ## Usage
 
 ```javascript
