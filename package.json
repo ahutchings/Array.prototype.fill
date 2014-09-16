@@ -1,0 +1,28 @@
+{
+  "name": "array.prototype.fill",
+  "version": "1.0.0",
+  "description": "Array.prototype.fill polyfill",
+  "keywords": [
+    "Array.prototype.fill",
+    "fill",
+    "es6",
+    "ecmascript 6",
+    "polyfill"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ahutchings/Array.prototype.fill.git"
+  },
+  "author": "Andrew Hutchings <andrew.hutchings@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ahutchings/Array.prototype.fill/issues"
+  },
+  "devDependencies": {
+    "tap": "^0.4.12"
+  }
+}
