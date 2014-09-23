@@ -1,6 +1,6 @@
 {
   "name": "array.prototype.fill",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Array.prototype.fill polyfill",
   "keywords": [
     "Array.prototype.fill",
