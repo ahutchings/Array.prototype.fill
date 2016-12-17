@@ -27,12 +27,12 @@
       len : end >> 0;
 
     // Step 11.
-    var final = relativeEnd < 0 ?
+    var last = relativeEnd < 0 ?
       Math.max(len + relativeEnd, 0) :
       Math.min(relativeEnd, len);
 
     // Step 12.
-    while (k < final) {
+    while (k < last) {
       O[k] = value;
       k++;
     }
