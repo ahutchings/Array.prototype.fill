@@ -23,6 +23,6 @@
     "url": "https://github.com/ahutchings/Array.prototype.fill/issues"
   },
   "devDependencies": {
-    "tap": "^0.4.12"
+    "tap": "^10.7.1"
   }
 }
